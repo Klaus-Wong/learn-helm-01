@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  custom-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-25T00:07:39.461960584+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 983c6d31cbf3c7cb4c630ee384fea1572a1fc94db5a1bcdf5cd8696d75124557
+    name: custom-app
+    type: application
+    urls:
+    - https://klaus-wong.github.io/learn-helm-01/example/custom-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-25T00:07:39.461251474+08:00"
